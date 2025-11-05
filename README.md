@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @dariuszstawicki
-- 👀 I’m interested in testing
-- 🌱 I’m currently learning manual testing
-- 💞️ I’m looking to collaborate on interesting IT projects
-- 📫 How to reach me d.stawicki95@gmail.com
